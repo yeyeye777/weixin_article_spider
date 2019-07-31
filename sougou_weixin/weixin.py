@@ -92,7 +92,7 @@ if __name__ == '__main__':
         tags = list(i.keys())[0]
         num = list(i.values())[0]
         # 这里设置你要爬取的页数
-        for j in range(100):
+        for j in range(10):
             print('当前爬取的是{}的第{}页。'.format(tags,j))
             if j==0:
                 url='https://weixin.sogou.com/pcindex/pc/pc_{}/pc_{}.html'.format(num,num)
