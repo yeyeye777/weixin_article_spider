@@ -8,3 +8,4 @@
 本项目使用的是西瓜插件来实现，使用selenium模拟浏览器，加载插件，应为插件加载信息会需要一定的时间，
 所以速度需要放慢，而且搜狗的微信会进行访问限制，所以控制好访问速度。浏览器页面不可隐藏小化，否则插件会出现异常。
 
+![image](https://github.com/yeyuzhao/weixin_article_spider/blob/master/sougou_weixin/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190731123538.png)
